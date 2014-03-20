@@ -1,0 +1,16 @@
+Krita Watercolor Set by Vasco Alexander Basqué
+----------------------------------------------
+
+Installation:
+
+
+Copy the brushes folder into your krita user directory.
+Copy the paintoppresets folder for the Version of Krita you use into your krita user directory.
+Not sure which version you use? Most likely it will be the stable release of Krita (2.7), but you can also see it when you open Krita - Menu - Help - About. 
+
+Note: One Brush (Spots034.gbr) is also in the Modular Brushset; you can overwrite it if you have this set installed; The Set uses the Prefix X9 in the brushnames and should appear at the end of the brushlist. Sort it out by typing X9 in the preset docker (krita 2.8+). There are no subcategories in this set.
+
+Default installation path of the Krita folder:
+
+Linux: /home/username/.kde/share/apps/krita
+Windows: C:\Users\username\AppData\Roaming\.kde\share\apps
